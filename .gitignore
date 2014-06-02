@@ -1,0 +1,7 @@
+.bundle
+.DS_Store
+.vagrant
+config/database.php
+config/secrets.php
+public/wp
+vendor
